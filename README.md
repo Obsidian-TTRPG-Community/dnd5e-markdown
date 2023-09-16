@@ -11,7 +11,7 @@ The Dnd5e SRD in Markdown for [Obsidian](https://obsidian.md). Also, a place for
 3. Toggle Appearance Snippets to On
 4. Install `Admonition` from the Community Store
 5. Use the Admonition Settings to import the [admonitions-5e](optional-snippets/admonitions-5e.json) into the plugin.
-6. You are ready to go!
+6. You are ready to explore
 
 ## Homebrew? Templates?
 
