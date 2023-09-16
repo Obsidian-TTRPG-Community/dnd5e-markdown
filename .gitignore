@@ -2,3 +2,14 @@
 *.css.map
 *.sass.map
 *.scss.map
+/.obsidian/app.json
+/.obsidian/appearance.json
+/.obsidian/core-plugins.json
+/.obsidian/core-plugins-migration.json
+/.obsidian/hotkeys.json
+/.obsidian/workspace.json
+/.obsidian/plugins/obsidian-admonition/main.js
+/.obsidian/plugins/obsidian-admonition/manifest.json
+/.obsidian/plugins/obsidian-admonition/styles.css
+/.idea/
+/.obsidian/plugins/obsidian-admonition/

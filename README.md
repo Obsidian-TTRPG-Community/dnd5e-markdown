@@ -4,10 +4,15 @@ The Dnd5e SRD in Markdown for [Obsidian](https://obsidian.md). Also, a place for
 
 > Inspired by [@OldManUmby](https://github.com/OldManUmby)'s infamous 5e SRD Repository, this 5E repository serves more as an example for our SRD project on how to build a works-for-most-everyone vault for our Sourcerer team. While it can be used as an SRD base, please check out Old Man Umby's 5e SRD wiki first. 
 
-## How to Use
+## How to use
 
-Clone, Fork, or use download the repository as a zip. Open folder in Obsidian, and you are good to go!
+1. Clone, Fork, or use download the repository as a zip. 
+2. Open folder in Obsidian
+3. Toggle Appearance Snippets to On
+4. Install `Admonition` from the Community Store
+5. Use the Admonition Settings to import the [admonitions-5e](optional-snippets/admonitions-5e.json) into the plugin.
+6. You are ready to go!
 
-## Homebrew?
+## Homebrew? Templates?
 
-Yes! we allow and encourage 5e Homebrew that is ready to go. 
+Yes! We allow and encourage all 5e Homebrew or templates that are ready to go. 
