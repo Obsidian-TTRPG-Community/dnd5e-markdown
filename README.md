@@ -15,4 +15,4 @@ The Dnd5e SRD in Markdown for [Obsidian](https://obsidian.md). Also, a place for
 
 ## Homebrew? Templates?
 
-Yes! We allow and encourage all 5e Homebrew or templates that are ready to go. 
+Please place homebrew and Templates in the [Dungeons and Dragons Essentials](https://github.com/Obsidian-TTRPG-Community/Dungeons-and-Dragons-Essentials) repository.
