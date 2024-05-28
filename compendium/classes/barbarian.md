@@ -69,7 +69,7 @@ aliases: ["Barbarian"]
 
 - **Hit Dice**: 1d12 per Barbarian level
 - **Hit Points at First Level:** 12 + CON
-- **Hit Points at Higher Levels:** add 6 OR 1d12 + CON  (minimum of 1)
+- **Hit Points at Higher Levels:** add 7 OR 1d12 + CON  (minimum of 1)
 
 ## Starting Barbarian
 

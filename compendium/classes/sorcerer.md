@@ -69,7 +69,7 @@ aliases: ["Sorcerer"]
 
 - **Hit Dice**: 1d6 per Sorcerer level
 - **Hit Points at First Level:** 6 + CON
-- **Hit Points at Higher Levels:** add 3 OR 1d6 + CON  (minimum of 1)
+- **Hit Points at Higher Levels:** add 4 OR 1d6 + CON  (minimum of 1)
 
 ## Starting Sorcerer
 

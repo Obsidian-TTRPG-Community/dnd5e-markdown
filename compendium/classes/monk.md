@@ -69,7 +69,7 @@ aliases: ["Monk"]
 
 - **Hit Dice**: 1d8 per Monk level
 - **Hit Points at First Level:** 8 + CON
-- **Hit Points at Higher Levels:** add 4 OR 1d8 + CON  (minimum of 1)
+- **Hit Points at Higher Levels:** add 5 OR 1d8 + CON  (minimum of 1)
 
 ## Starting Monk
 
