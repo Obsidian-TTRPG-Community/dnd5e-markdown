@@ -69,7 +69,7 @@ aliases: ["Ranger"]
 
 - **Hit Dice**: 1d10 per Ranger level
 - **Hit Points at First Level:** 10 + CON
-- **Hit Points at Higher Levels:** add 5 OR 1d10 + CON  (minimum of 1)
+- **Hit Points at Higher Levels:** add 6 OR 1d10 + CON  (minimum of 1)
 
 ## Starting Ranger
 
